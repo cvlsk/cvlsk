@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shravan!
 
 - 👋 Hi, I’m Shravan! Or @cvlsk within GitHub.
-- 💞️ I try (a lot) and write code (not that lot).
+- 💞️ I try (a lot) and write code (but not that lot).
 - 👀 I’m interested in competitive data and code challenges like [Advent Of Code](https://adventofcode.com/about)!
 - 🌱 I’m currently learning ... Rust! I have good experience with Python and SQL otherwise.
 - 📫 How to reach me ... err ... over email I guess? However that's very much ```<redacted>```, haha.
